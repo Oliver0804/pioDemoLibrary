@@ -1,0 +1,22 @@
+{
+  "name": "DemoLibrary",
+  "version": "1.0.0",
+  "keywords": "arduino, blink, hello world",
+  "description": "A library for LED blinky and printing Hello World",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Oliver0804/pioDemoLibrary"
+  },
+  "authors": [
+    {
+      "name": "oliver0804",
+      "email": "icetzsr@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "frameworks": "arduino",
+  "platforms": "*",
+  "license": "MIT",
+  "dependencies": {}
+}
+
