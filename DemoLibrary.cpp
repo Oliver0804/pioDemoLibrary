@@ -1,6 +1,7 @@
 // DemoLibrary.cpp
-
+#if ARDUINO >= 100
 #include "Arduino.h"
+#endif
 #include "DemoLibrary.h"
 
 DemoLibrary::DemoLibrary()
